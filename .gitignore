@@ -2,3 +2,4 @@ data
 .ipynb_checkpoints
 venv
 recurrent-network/data
+intrusion-detection/data
